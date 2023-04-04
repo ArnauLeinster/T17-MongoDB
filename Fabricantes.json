@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6422c3c8a2c6cdbc87a436e6"
+  },
+  "nombre": "ASUS"
+},{
+  "_id": {
+    "$oid": "6422c4bba2c6cdbc87a436e7"
+  },
+  "nombre": "INTEL"
+},{
+  "_id": {
+    "$oid": "6422c4c3a2c6cdbc87a436e8"
+  },
+  "nombre": "LINUX"
+}]

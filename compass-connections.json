@@ -1,0 +1,23 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "19b5c354-a6ac-4944-bb60-57803bab4f8e",
+      "connectionOptions": {
+        "connectionString": "mongodb://root:rott@localhost:27027/?authMechanism=DEFAULT"
+      },
+      "favorite": {
+        "name": "Bootcamp",
+        "color": "color7"
+      },
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1680627688082"
+        }
+      }
+    }
+  ]
+}

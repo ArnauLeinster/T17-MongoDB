@@ -1,0 +1,7 @@
+[{
+  "_id": {
+    "$oid": "642c5c81f32abb0d2f3d44bd"
+  },
+  "Lugar": "Barcelona",
+  "Capacidad": "10000"
+}]

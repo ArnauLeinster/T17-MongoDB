@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "642c62cff32abb0d2f3d44c4"
+  },
+  "Precio": "30",
+  "Pieza": "ObjectId(642c6280f32abb0d2f3d44c2)",
+  "Proveedor": "ObjectId(642c6290f32abb0d2f3d44c3)"
+}]

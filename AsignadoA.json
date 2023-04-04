@@ -1,0 +1,7 @@
+[{
+  "_id": {
+    "$oid": "642c6517f32abb0d2f3d44cd"
+  },
+  "Cientifico": "33344455A",
+  "Proyecto": "ObjectId(642c64edf32abb0d2f3d44cc)"
+}]

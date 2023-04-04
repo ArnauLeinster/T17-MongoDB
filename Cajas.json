@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "642c5cd8f32abb0d2f3d44be"
+  },
+  "Contenido": "Tomates",
+  "Valor": "5",
+  "Almacen": "ObjectId(642c5c81f32abb0d2f3d44bd)"
+}]

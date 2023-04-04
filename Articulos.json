@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6422c7b7a2c6cdbc87a436ec"
+  },
+  "nombre": "RatonWireless",
+  "precio": 100,
+  "Fabricantes": "ObjectId(6422c4c3a2c6cdbc87a436e8)"
+},{
+  "_id": {
+    "$oid": "6422c7c8a2c6cdbc87a436ed"
+  },
+  "nombre": "RadioWireless",
+  "precio": 400,
+  "Fabricantes": "ObjectId(6422c4bba2c6cdbc87a436e7)"
+},{
+  "_id": {
+    "$oid": "6422c80ba2c6cdbc87a436ee"
+  },
+  "nombre": "Televison 36 pulgadas",
+  "precio": 300,
+  "Fabricantes": "ObjectId(6422c4bba2c6cdbc87a436e7)"
+}]

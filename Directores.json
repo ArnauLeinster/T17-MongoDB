@@ -1,0 +1,10 @@
+[{
+  "_id": "12345678A",
+  "NomApells": "JoaquinVasquez",
+  "Despacho": "ObjectId(642c5e5df32abb0d2f3d44c1)"
+},{
+  "_id": "22233344B",
+  "NomApells": "JoaquinVasquez",
+  "Despacho": "ObjectId(642c5e5df32abb0d2f3d44c1)",
+  "_idJefe": "12345678A"
+}]

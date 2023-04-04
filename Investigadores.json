@@ -1,0 +1,11 @@
+[{
+  "_id": "12345678B",
+  "NomsApells": "SaraJimenez",
+  "Fcultad": "ObjectId(642c63d2f32abb0d2f3d44c9)"
+},{
+  "_id": {
+    "$oid": "642c643bf32abb0d2f3d44ca"
+  },
+  "Nombre": "Equipo3",
+  "Fcultad": "ObjectId(642c63d2f32abb0d2f3d44c9)"
+}]
